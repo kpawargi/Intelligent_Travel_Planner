@@ -20,7 +20,11 @@ An AI-driven travel planning web application that generates **personalized, day-
 
 ## 📂 File Structure
 
-Intelligent_Travel_Planner/ │ ├── app.py # Main Streamlit app ├── requirements.txt # Required Python packages └── streamlit.zip # Assets of the Streamlit App
+Intelligent_Travel_Planner/
+├── app.py             # Main Streamlit app
+├── requirements.txt   # Required Python packages
+└── streamlit.zip      # Assets of the Streamlit App
+
 
 
 ## 📦 Setup Instructions
@@ -48,3 +52,7 @@ Try the app live on Hugging Face Spaces:
 [Check it out here](https://huggingface.co/spaces/KrishPawargi/Intelligent_Travel_Planner)
 
 **Thank you**
+
+
+
+
