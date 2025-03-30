@@ -1,0 +1,9 @@
+streamlit
+fpdf
+python-dotenv
+requests
+langchain
+accelerate
+langchain-community
+optimum
+huggingface_hub
